@@ -1,4 +1,4 @@
 my:
-  greeting: refresh scope
+  greeting: no refresh scope 
   list:
     values: one,two
