@@ -1,4 +1,4 @@
 my:
-  greeting: config server with refresh scope
+  greeting: refresh scope
   list:
     values: one,two
