@@ -1,4 +1,4 @@
 my:
-  greeting: no refresh scope annotation
+  greeting: refresh scope annotation
   list:
     values: one,two
