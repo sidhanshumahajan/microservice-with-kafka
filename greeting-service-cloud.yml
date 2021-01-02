@@ -1,4 +1,4 @@
 my:
-  greeting: hello world
+  greeting: config server with refresh scope
   list:
-    values: one,two,three,four
+    values: one,two
